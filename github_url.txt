@@ -1,0 +1,14 @@
+https://github.com/CarlsBc/DesarrolloWeb
+
+ls
+pwd
+git init
+git status
+git add archivo
+git commit (imagen)
+git config --global user.email "ingresa correo"
+git config --global user.name "Nic Name"
+(Esc) :wq
+git log
+git checkout --  NombreArchivo regresa
+git diff  NombreArchivo
